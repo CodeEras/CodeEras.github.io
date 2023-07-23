@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_era=self.webpackChunkcode_era||[]).push([[5281],{8772:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/codeeras/blog/tags/hola","allTagsPath":"/codeeras/blog/tags","count":1}')}}]);

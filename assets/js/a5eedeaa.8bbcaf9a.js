@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_era=self.webpackChunkcode_era||[]).push([[2577],{5143:e=>{e.exports=JSON.parse('{"permalink":"/codeeras/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

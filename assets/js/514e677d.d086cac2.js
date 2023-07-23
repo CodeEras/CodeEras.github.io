@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_era=self.webpackChunkcode_era||[]).push([[6654],{7912:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/codeeras/blog/tags/facebook","allTagsPath":"/codeeras/blog/tags","count":1}')}}]);
